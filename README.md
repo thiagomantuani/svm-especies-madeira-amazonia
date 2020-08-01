@@ -1,3 +1,3 @@
-# svm-especies-madeira-amazonia
+# Classificação de espécies da Amazônia Legal.
 
-Classificação de madeiras da Amazônia Legal.
+[svm_madeira_amazonia.ipynb]
